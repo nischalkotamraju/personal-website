@@ -1,11 +1,7 @@
 "use client";
 
-import React, { useState } from "react";
+import React from "react";
 import Link from "next/link";
-import { Send } from "lucide-react";
-
-const CONTACT_API_URL =
-  "https://script.google.com/macros/s/AKfycbwLN0Ir3ADcA67rqYCXhMpTavSExEJtQC4QzgVm-sOzLaQEcrHLnreq6GKqR0hsqizTGw/exec";
 
 const Contact = () => {
   return (

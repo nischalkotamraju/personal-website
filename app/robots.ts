@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: ["/"],
       },
     ],
-    sitemap: "https://ethanlanting.dev/sitemap.xml",
+    sitemap: "https://nischalkotamraju.netlify.app/sitemap.xml",
   };
 }

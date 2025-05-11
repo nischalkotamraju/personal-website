@@ -4,7 +4,7 @@ import type { MetadataRoute } from "next";
 export default function sitemap(): MetadataRoute.Sitemap {
   const sitemap = [
     {
-      url: "https://ethanlanting.dev/",
+      url: "https://nischalkotamraju.netlify.app/",
       lastModified: new Date(),
       changeFrequency: "yearly" as const,
       priority: 1,
@@ -13,7 +13,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   sitemap.push(
     ...projects.map((project) => ({
-      url: `https://ethanlanting.dev/projects/${project.slug}`,
+      url: `https://nischalkotamraju.netlify.app/${project.slug}`,
       lastModified: new Date(),
       changeFrequency: "yearly" as const,
       priority: 0.8,

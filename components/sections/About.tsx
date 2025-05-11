@@ -9,7 +9,7 @@ const About = () => {
       className="flex w-full max-w-[40rem] flex-col gap-8 p-6 rounded-lg shadow-lg"
     >
       <h1 className="text-2xl text-white">
-        Hey there! I'm <span className="font-bold text-green-200">Nischal Kotamraju</span>.
+        Hey there! I&apos;m <span className="font-bold text-green-200">Nischal Kotamraju</span>.
       </h1>
 
       <div className="flex flex-col gap-4">

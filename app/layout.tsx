@@ -24,9 +24,6 @@ export const metadata: Metadata = {
       "Hello, I'm Nischal—a passionate developer, designer, and problem solver. I specialize in creating fast, accessible, and user-friendly digital experiences.",
     siteName: "Nischal Kotamraju",
   },
-  twitter: {
-    card: "summary",
-  },
 };
 
 export const viewport: Viewport = {

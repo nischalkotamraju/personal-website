@@ -41,3 +41,7 @@ videos/*
 !videos/*.js
 !videos/*.ts
 public/_next-video
+
+# app
+app/opengraph-image.alt.txt
+app/opengraph-image.png
