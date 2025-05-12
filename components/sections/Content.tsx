@@ -64,9 +64,9 @@ const Projects = () => {
 
 const TechStack = () => {
   return (
-    <div className="grid grid-cols-1 gap-x-10 gap-y-10 pt-6 sm:gap-y-16 md:grid-cols-2 lg:grid-cols-3">
+    <div className="grid grid-cols-1 gap-x-10 gap-y-10 pt-6 sm:gap-y-16 md:grid-cols-2">
       {techStack.map((tech, i) => (
-        <GridItem key={i} {...tech} />
+      <GridItem key={i} {...tech} />
       ))}
     </div>
   );
