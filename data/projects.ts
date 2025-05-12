@@ -36,7 +36,7 @@ export const projects = [
       "Built an AI-driven ACT prep platform that automates practice question generation and provides personalized study tools. Features include AI-powered essay generation and real-time analytics to enhance student learning.",
     media: "/images/thirty-six.png",
     url: "https://thirtysix.netlify.app/",
-    repo: "https://github.com/nischalkotamraju/act-prep-tool/",
+    repo: "https://github.com/nischalkotamraju/thirty-six/",
     techStack: [
       "React.js",
       "TailwindCSS",
@@ -54,7 +54,7 @@ export const projects = [
       "Developed an online tool for nonprofits to manage volunteer sign-ups, track hours, and organize events. The portal provides real-time updates and networking opportunities through an intuitive interface.",
     media: "/images/genlink.png",
     url: "https://genlinkaustin.netlify.app/",
-    repo: "https://github.com/nischalkotamraju/genlink-volunteer-portal/",
+    repo: "https://github.com/nischalkotamraju/genlink-website/",
     techStack: [
       "React.js",
       "TailwindCSS",
@@ -69,7 +69,7 @@ export const projects = [
       "Created a stock market analysis tool that integrates with Yahoo Finance to provide AI-driven insights and consolidate company information. Streamlined the research process by eliminating the need to navigate multiple sources.",
     media: "/images/stock-market-analysis.png",
     url: "https://devpost.com/software/stock-market-ai-advisor?ref_content=user-portfolio&ref_feature=in_progress",
-    repo: "https://github.com/nischalkotamraju/stock-market-analysis-app/",
+    repo: "https://github.com/nischalkotamraju/stock-market-ai-advisor/",
     techStack: [
       "Python",
       "Pandas",
