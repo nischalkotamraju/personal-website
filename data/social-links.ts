@@ -12,7 +12,7 @@ export const socialLinks = [
   },
   {
     title: "LinkedIn",
-    href: "www.linkedin.com/in/nischal-kotamraju-7547142a1",
+    href: "https://www.linkedin.com/in/nischal-kotamraju-7547142a1",
     icon: SiLinkedin,
   },
 ];
