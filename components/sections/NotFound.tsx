@@ -10,7 +10,6 @@ const NotFound = () => {
         <h2 className="text-4xl font-extrabold tracking-tight text-white sm:text-5xl md:text-6xl">
           404 Not Found
         </h2>
-        <p className="font-semibold">Could not find requested resource. 😢</p>
       </div>
       <Link
         className="font-semibold text-accent transition-colors ease-in-out hover:text-accent/80"
